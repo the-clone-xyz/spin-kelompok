@@ -1,0 +1,16 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-image: url("../img/bg.jpeg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
